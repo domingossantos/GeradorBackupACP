@@ -7,3 +7,9 @@
 \\psf\home\documents\visual studio 2012\Projects\GeradorBackup\GeradorBackup\obj\Debug\GeradorBackup.csproj.GenerateResource.Cache
 \\psf\home\documents\visual studio 2012\Projects\GeradorBackup\GeradorBackup\obj\Debug\GeradorBackup.exe
 \\psf\home\documents\visual studio 2012\Projects\GeradorBackup\GeradorBackup\obj\Debug\GeradorBackup.pdb
+Y:\git\GeradorBackupACP\GeradorBackup\bin\Debug\GeradorBackup.exe.config
+Y:\git\GeradorBackupACP\GeradorBackup\obj\Debug\GeradorBackup.exe
+Y:\git\GeradorBackupACP\GeradorBackup\obj\Debug\GeradorBackup.pdb
+\\psf\Home\git\GeradorBackupACP\GeradorBackup\bin\Debug\GeradorBackup.exe.config
+\\psf\Home\git\GeradorBackupACP\GeradorBackup\obj\Debug\GeradorBackup.exe
+\\psf\Home\git\GeradorBackupACP\GeradorBackup\obj\Debug\GeradorBackup.pdb
