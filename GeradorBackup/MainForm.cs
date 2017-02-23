@@ -119,7 +119,7 @@ namespace GeradorBackup
             try{
                 progressBar1.Value = 0;
                 Refresh();
-                String arquivo = @"backup-"+DateTime.Now.Day.ToString()+DateTime.Now.Month.ToString()+DateTime.Now.Year.ToString()+".txt";
+                String arquivo = @"backup-" + DateTime.Now.Day.ToString() + "-" + DateTime.Now.Month.ToString() + "-" + DateTime.Now.Year.ToString() + ".txt";
 
                 if (!File.Exists(arquivo)) {
                     File.Delete(arquivo);
@@ -145,7 +145,13 @@ namespace GeradorBackup
 
                 escrever.WriteLine(header);
 
-                String sql = "select * from tbContribuinte";
+                String sql = " SELECT cd_cadastro,cd_formTeologica,cd_natPastor,cd_escPastor,cd_nacPastor,cd_estCivil,cd_categoria "+
+                             ",nm_pastor,no_regConv,dt_nascPastor,tp_sanguineo,no_regGeral,no_cpf,ds_endereco,ds_compEndPastor"+
+	                         " ,no_cepPastor,dt_filiacao,nm_pai,nm_mae,nm_conjuge,dt_nascConjuge,no_fone,dt_batismo"+
+                             " ,ds_localBatismo,dt_autEvangelista,dt_consagEvangelista,dt_ordenacPastor,ds_localConsagracao"+
+                             " ,ds_campo,ds_supervisao,no_certCasamento,ds_orgaoemissorrg,dt_emissao,ds_bairro,ds_uf"+
+                             " ,ds_cidade,cd_sitJubilamento,dt_falecimento,cd_banco,st_arquivoMorto,dt_filiacao_cabepa" +
+                             " FROM tbContribuinte order by cd_cadastro ";
                 DataTable dados = conn.retornarDataSet(sql);
                 gerarLinhasTabela(ref escrever, dados, '1', ref count);
 

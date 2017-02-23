@@ -13,3 +13,12 @@ Y:\git\GeradorBackupACP\GeradorBackup\obj\Debug\GeradorBackup.pdb
 \\psf\Home\git\GeradorBackupACP\GeradorBackup\bin\Debug\GeradorBackup.exe.config
 \\psf\Home\git\GeradorBackupACP\GeradorBackup\obj\Debug\GeradorBackup.exe
 \\psf\Home\git\GeradorBackupACP\GeradorBackup\obj\Debug\GeradorBackup.pdb
+C:\Users\windows7\Documents\GitHub\GeradorBackupACP\GeradorBackup\bin\Debug\GeradorBackup.exe.config
+C:\Users\windows7\Documents\GitHub\GeradorBackupACP\GeradorBackup\obj\Debug\GeradorBackup.exe
+C:\Users\windows7\Documents\GitHub\GeradorBackupACP\GeradorBackup\obj\Debug\GeradorBackup.pdb
+C:\Users\windows7\Documents\GitHub\GeradorBackupACP\GeradorBackup\bin\Debug\GeradorBackup.exe
+C:\Users\windows7\Documents\GitHub\GeradorBackupACP\GeradorBackup\bin\Debug\GeradorBackup.pdb
+C:\Users\windows7\Documents\GitHub\GeradorBackupACP\GeradorBackup\obj\Debug\GeradorBackup.csprojResolveAssemblyReference.cache
+C:\Users\windows7\Documents\GitHub\GeradorBackupACP\GeradorBackup\obj\Debug\GeradorBackup.FrmMain.resources
+C:\Users\windows7\Documents\GitHub\GeradorBackupACP\GeradorBackup\obj\Debug\GeradorBackup.Properties.Resources.resources
+C:\Users\windows7\Documents\GitHub\GeradorBackupACP\GeradorBackup\obj\Debug\GeradorBackup.csproj.GenerateResource.Cache
